@@ -135,7 +135,7 @@ public class CalcEngine
      */
     public String getVersion()
     {
-       return "Version 2.0";
+       return "Version 1.0";
     }
 
     /**
